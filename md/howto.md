@@ -58,9 +58,12 @@ Note:
 vvv
 
 ### Automate
-- code style check
-- compilation
-- tests
+- Code style check
+- Compilation
+- Tests
+
+Note:
+- in short: automate the boring parts
 
 vvv
 
